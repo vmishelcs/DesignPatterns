@@ -1,6 +1,7 @@
 .settings/
 bin/
 tmp/
+out/
 .metadata
 .classpath
 .project
