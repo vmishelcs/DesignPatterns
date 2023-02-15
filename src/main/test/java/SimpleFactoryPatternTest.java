@@ -1,8 +1,6 @@
 package main.test.java;
 
-import main.java.factorypattern.Pizza;
-import main.java.factorypattern.simplefactory.SimplePizzaFactory;
-import main.java.factorypattern.simplefactory.SimplePizzaShop;
+import main.java.factorypattern.simplefactory.*;
 
 public class SimpleFactoryPatternTest {
     public static void main(String args[]) {

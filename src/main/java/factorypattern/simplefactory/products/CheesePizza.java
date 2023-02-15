@@ -1,6 +1,6 @@
 package main.java.factorypattern.simplefactory.products;
 
-import main.java.factorypattern.Pizza;
+import main.java.factorypattern.simplefactory.Pizza;
 
 public class CheesePizza implements Pizza {
     @Override

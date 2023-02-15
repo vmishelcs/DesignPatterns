@@ -1,6 +1,5 @@
 package main.java.factorypattern.simplefactory;
 
-import main.java.factorypattern.Pizza;
 import main.java.factorypattern.simplefactory.products.*;
 
 public class SimplePizzaFactory {
